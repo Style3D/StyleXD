@@ -4,7 +4,7 @@
 [Style3D AI]()
 <!-- views since 24.04 -->
 <a href='https://arxiv.org/abs/2311.12886'><img src='https://img.shields.io/badge/ArXiv-2311.12886-red'></a> 
-<a href='https://animationai.github.io/AnimateAnything/'><img src='https://img.shields.io/badge/Project-Page-Blue'></a>  ![views](https://visitor-badge.laobi.icu/badge?page_id=alibaba.animate-anything&left_color=gray&right_color=red)
+<a href='https://animationai.github.io/AnimateAnything/'><img src='https://img.shields.io/badge/Project-Page-Blue'></a>  ![views](https://visitor-badge.laobi.icu/badge?page_id=Style3D.StyleXD&left_color=gray&right_color=red)
 </div>
 
 ![](./assets/stylexd.png)
