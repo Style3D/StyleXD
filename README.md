@@ -1,7 +1,7 @@
 <div align="center">
 <h2><center>&#128518;StyleXD: A Multi-modal Dataset for Fashion Manufacturing</h2>
 
-[Style3D AI]()
+[Style3D Research](https://linctex.com/)
 <!-- views since 24.04 -->
 </div>
 
