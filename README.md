@@ -16,7 +16,7 @@ StyleXD is the world's first open, large-scale, multi-model dataset for sewing p
 
 ## Maintenance
 ### Data
-Currently we've finish the data desensitization process and open sourced 1204 items over total 23,276 items on [Kaggle](https://www.kaggle.com/datasets/style3d/stylexda-multi-modal-benchmark-of-fashion). We plan to open source the full dataset at the end of this year
+Currently we've finish the data desensitization process and open sourced 1204 items over total 23,276 items on [Kaggle](https://www.kaggle.com/datasets/style3d/stylexda-multi-modal-benchmark-of-fashion). We plan to open source the full dataset at the end of this year.
 
 ### Benchmarks and Experiments
 #### Garment Reconstruction
