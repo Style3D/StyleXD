@@ -19,6 +19,10 @@ StyleXD is the world's first open, large-scale, multi-model dataset for sewing p
 Currently we've finish the data desensitization process and open sourced 1204 items over total 23,276 items on [Kaggle](https://www.kaggle.com/datasets/style3d/stylexda-multi-modal-benchmark-of-fashion). We plan to open source the full dataset at the end of this year.
 
 ### Benchmarks and Experiments
+
+#### Garment Parsing
+We conducted an initial baseline experiment on garment part parsing using [PointTransformerV3](https://github.com/Pointcept/PointTransformerV3). For details on data preprocessing and initial results, please refer to the `experiments/garmentparsing` directory.
+
 #### Garment Reconstruction
 
 We have updated the initial experiment code and result in `experiments\garmentrecon`. And we will continue to update the benchmark result.
@@ -26,10 +30,6 @@ We have updated the initial experiment code and result in `experiments\garmentre
 #### Garment Generation
 
 We have uploaded several experimental results and a demo to `experiments\garmentgen`, hopefully we will open source the code earlier next year, together with a new publication to describe in detail the algorithms. Stay tuned.
-
-#### Garment Assembly
-
-We're currently working on the beta version. Stay tuned.
 
 ### Future Features
 As StyleXD is a long-term project, we invite researchers to propose new benchmark tasks and experiments using our dataset. Feel free to email us if you have any ideas. 
